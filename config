@@ -1,0 +1,11 @@
+[settings]
+search_query: @unkahnventional IntFic
+# Leave empty for all languages
+tweet_language:
+
+# Create your app on http://apps.twitter.com
+[twitter]
+consumer_key: yiX6wnPFzk6FPQxRUzDNKXhVY
+consumer_secret: rYrASmcdWYzvLevfehg17nenz65x1CM4RtbFt3uCiQ0huBDIel
+access_token: 889593619627352064-lEDZIEJlVCozMS4nb4I7MqFcVZ4feer
+access_token_secret: 8LuNgJ8Q2Ffgh5ImRUYa6u15QTSb8wMiYPxpJYtoy1ZMB
